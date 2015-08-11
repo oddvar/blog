@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Code &amp; Coffee</title>
+    <description>Random caffeinated thoughts and experiements. Read at your own risk!
 </description>
-    <link>http://oddvar.org/blog//</link>
-    <atom:link href="http://oddvar.org/blog//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Aug 2015 15:05:51 +0100</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2015 15:05:51 +0100</lastBuildDate>
+    <link>http://oddvar.org/blog/</link>
+    <atom:link href="http://oddvar.org/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 11 Aug 2015 15:13:49 +0100</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2015 15:13:49 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -16,8 +16,8 @@
 
 </description>
         <pubDate>Tue, 11 Aug 2015 15:37:04 +0100</pubDate>
-        <link>http://oddvar.org/blog//jekyll/update/2015/08/11/test.html</link>
-        <guid isPermaLink="true">http://oddvar.org/blog//jekyll/update/2015/08/11/test.html</guid>
+        <link>http://oddvar.org/blog/jekyll/update/2015/08/11/test.html</link>
+        <guid isPermaLink="true">http://oddvar.org/blog/jekyll/update/2015/08/11/test.html</guid>
         
         
         <category>jekyll</category>
@@ -44,8 +44,8 @@
 
 </description>
         <pubDate>Tue, 11 Aug 2015 14:37:04 +0100</pubDate>
-        <link>http://oddvar.org/blog//jekyll/update/2015/08/11/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://oddvar.org/blog//jekyll/update/2015/08/11/welcome-to-jekyll.html</guid>
+        <link>http://oddvar.org/blog/jekyll/update/2015/08/11/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://oddvar.org/blog/jekyll/update/2015/08/11/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

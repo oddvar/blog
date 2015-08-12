@@ -2,7 +2,7 @@
 title: Code & Coffee
 email: oddvar@oddvar.org
 description: > # this means to ignore newlines until "baseurl:"
-  Random caffeinated thoughts and experiements. Read at your own risk!
+  Random caffeinated thoughts and experiments. Read at your own risk!
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://oddvar.org" # the base hostname & protocol for your site
 twitter_username: dollarone
